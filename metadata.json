@@ -1,0 +1,8 @@
+{
+  "name": "Campus Help AI",
+  "description": "Mobile campus companion for college students with bilingual AI support in English and Kannada, verified course details, fees, circulars, and admin desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
